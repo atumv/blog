@@ -1,7 +1,5 @@
 # Blog
 
-A blog created using MERN stack.
-
 ![](assets/preview.png)
 
 ## Built with
