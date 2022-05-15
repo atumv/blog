@@ -18,9 +18,11 @@ git clone https://github.com/atumv/blog.git && cd blog/server && npm i && cd ../
 
 ## Running
 
+in one terminal window:
 ```sh
-# in one terminal window
 cd blog/server && npm start
-# in another terminal window
+```
+in another terminal window:
+```sh
 cd blog/client && npm start
 ```
